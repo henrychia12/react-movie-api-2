@@ -3,7 +3,7 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: App-logo-spin infinite 0s linear;
   height: 40vmin;
 }
 
@@ -16,6 +16,18 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.Submissionfield {
+  width: 350px; 
+  height: 30px; 
+  border: 1px solid #999999;
+  padding: 5px;
+}
+
+.ButtonSize {
+  width: 100px;
+  height: 40px;
 }
 
 .App-link {
